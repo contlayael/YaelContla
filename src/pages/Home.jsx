@@ -35,13 +35,13 @@ const Home = () => {
       url: "/portafolio", // Ruta interna
       isInternal: true
     },
-    {
+    /*{
       id: 5,
       title: "Shopping USA [Grupo VIP]",
       icon: <FaWhatsapp />,
       url: "https://chat.whatsapp.com/EiwaXV2LjRE763c5R8FWmP?mode=hqrc", 
       isInternal: false
-    }
+  }*/
   ];
 
   return (

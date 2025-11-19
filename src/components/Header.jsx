@@ -1,4 +1,3 @@
-import React from 'react';
 import perfilImg from '../assets/perfil.png'; // Ajusta la ruta si es necesario
 import '../App.css';
 

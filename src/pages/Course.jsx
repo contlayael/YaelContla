@@ -1,4 +1,3 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
 import { FaArrowLeft, FaWhatsapp, FaRobot, FaBolt, FaCode } from 'react-icons/fa'; // Nuevos iconos
 import Footer from '../components/Footer';

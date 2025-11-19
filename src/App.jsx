@@ -1,10 +1,10 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
 import Home from './pages/Home';
 import Services from './pages/Services';
 import Portfolio from './pages/Portfolio';
-import './App.css';
 import Course from './pages/Course';
+import './App.css';
 
 // Componente auxiliar para que al cambiar de página siempre inicie arriba
 const ScrollToTop = () => {

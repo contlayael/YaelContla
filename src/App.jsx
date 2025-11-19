@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import Services from './pages/Services';
 import Portfolio from './pages/Portfolio';
 import './App.css';
+import Course from './pages/Course';
 
 // Componente auxiliar para que al cambiar de página siempre inicie arriba
 const ScrollToTop = () => {
@@ -25,6 +26,7 @@ function App() {
         {/* Rutas Internas */}
         <Route path="/servicios" element={<Services />} />
         <Route path="/portafolio" element={<Portfolio />} />
+        <Route path="/curso" element={<Course />} />
         
         {/* Ruta por defecto (Si ponen una url rara, regresan al home) */}
         <Route path="*" element={<Home />} />

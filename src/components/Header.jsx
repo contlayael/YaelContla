@@ -12,7 +12,7 @@ const Header = () => {
       <h1 className="name">Yael Contla</h1>
       <div className="underline"></div>
       
-      <p className="slogan">Emprende e impulsa tu negocio</p>
+      <p className="slogan">Transforma tus ideas en realidad digital</p>
     </header>
   );
 };

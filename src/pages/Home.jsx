@@ -24,7 +24,7 @@ const Home = () => {
       id: 3,
       title: "Curso: Crea tu Web con IA",
       icon: <HiOutlineAcademicCap />,
-      url: "https://tucurso.com", 
+      url: "/curso", 
       highlight: true,
       isInternal: false
     },

@@ -1,7 +1,6 @@
-import React from 'react';
 import { Link } from 'react-router-dom'; // Importante para navegación interna
-import Header from '../Components/Header';
-import Footer from '../Components/Footer';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 import { FaWhatsapp, FaLaptopCode, FaTshirt, FaFutbol } from 'react-icons/fa';
 import { HiOutlineAcademicCap } from "react-icons/hi";
 

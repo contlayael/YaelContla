@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { FaArrowLeft } from 'react-icons/fa';
-import Footer from '../Components/Footer';
+import Footer from '../components/Footer';
 
 const Services = () => {
   return (

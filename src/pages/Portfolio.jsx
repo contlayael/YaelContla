@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { FaArrowLeft, FaFutbol } from 'react-icons/fa';
-import Footer from '../Components/Footer';
+import Footer from '../components/Footer';
 
 const Portfolio = () => {
   return (
